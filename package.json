@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/chelletuerk/express-tutorial/issues"
   },
-  "homepage": "https://github.com/chelletuerk/express-tutorial#readme"
+  "homepage": "https://github.com/chelletuerk/express-tutorial#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.15.2",
+    "multer": "^1.3.0"
+  }
 }
